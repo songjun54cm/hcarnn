@@ -1,0 +1,3 @@
+[submodule "packages/ml_idiot"]
+	path = packages/ml_idiot
+	url = https://github.com/songjun54cm/ml_idiot.git
