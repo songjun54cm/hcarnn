@@ -9,7 +9,5 @@
 *.lock
 data/*
 .idea/*
-packages/
-packages/*
 output/*
 temp/*
